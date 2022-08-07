@@ -1,0 +1,14 @@
+﻿Information saving is a gateway related function, \n
+I chose to use Serialization to save information. \n
+First I wrote a gateway class called Gateway and \n
+let this class implement an interface called IGateway \n
+with save() and read() method. The reason for that is \n
+I want to invert a dependency by creating an instance \n
+of Gateway with the type of IGateway. So that I can read \n
+in files in a use case class without breaking the dependency \n
+rule. (Like dependency injection in a sense.) \n
+Facade Design Pattern: The object I am serializing \n
+is called CollectorController, as its name suggests, \n
+it collects all the other controllers and entities to \n
+encapsulate them in this class. I then serialize this \n
+class so that everything inside the CollectorController is saved.\n
