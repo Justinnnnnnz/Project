@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: python-ta
+Version: 1.4.2
+Summary: Code checking tool for teaching Python
+Home-page: http://github.com/pyta-uoft/pyta
+Author: David Liu
+Author-email: david@cs.toronto.edu
+License: MIT
+Platform: UNKNOWN
+Requires-Python: ~=3.7
+Requires-Dist: astroid (<2.1,>=2.0)
+Requires-Dist: funcparserlib
+Requires-Dist: hypothesis
+Requires-Dist: pycodestyle
+Requires-Dist: pylint (<2.2,>=2.1)
+Requires-Dist: nose
+Requires-Dist: colorama
+Requires-Dist: six
+Requires-Dist: jinja2
+Requires-Dist: pygments
+Provides-Extra: dev
+Requires-Dist: graphviz; extra == 'dev'
+
+UNKNOWN
+
+

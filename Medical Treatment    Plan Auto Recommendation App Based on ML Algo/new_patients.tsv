@@ -1,0 +1,11 @@
+Patient_ID	Age	Gender	Tumor_Size	Nearby_Cancer_Lymphnodes	Cancer_Spread	Histological_Type	Lymph_Nodes	Treatment
+tcga.s3.aa11	67	female	t2	n0	m0	h_t_2	0	NA
+tcga.s3.aa14	47	female	t1	n0 (i+)	cm0 (i+)	h_t_2	0	NA
+tcga.s3.aa15	51	female	t2	n1a	cm0 (i+)	h_t_2	2	NA
+tcga.ul.aaz6	73	female	t2	n0	mx	h_t_2	NA	NA
+tcga.uu.a93s	63	female	t4d	n3b	m1	h_t_2	NA	NA
+tcga.v7.a7hq	75	female	t1c	n2a	m0	h_t_2	5	NA
+tcga.wt.ab44	NA	female	t1c	n0 (i-)	mx	h_t_1	0	NA
+tcga.xx.a899	46	female	t1c	n2a	mx	h_t_1	5	NA
+tcga.xx.a89a	68	female	t3	n0	mx	h_t_1	0	NA
+tcga.z7.a8r6	46	female	t1c	n0	m0	h_t_1	0	NA

@@ -1,0 +1,1088 @@
+Patient_ID	Age	Gender	Tumor_Size	Nearby_Cancer_Lymphnodes	Cancer_Spread	Histological_Type	Lymph_Nodes	Treatment
+tcga.5l.aat0	42	female	t2	n0	m0	h_t_1	0	plan_1
+tcga.5l.aat1	63	female	t2	n0	m1	h_t_1	0	plan_2
+tcga.a1.a0sp	40	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a04v	39	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a04y	53	female	t2	n1mi	m0	h_t_2	1	plan_2
+tcga.a2.a0cq	62	female	t1	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a1g4	71	female	t3	n1a	m0	h_t_2	2	plan_1
+tcga.a2.a25a	44	female	t2	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.a7.a0cd	66	female	t1	n0	m0	h_t_2	0	plan_3
+tcga.a7.a13g	79	female	t2	n0	mx	h_t_2	0	plan_2
+tcga.a7.a26e	71	female	t3	n1a	mx	h_t_1	0	plan_2
+tcga.a7.a26f	55	female	t1	n0	m0	h_t_3	0	plan_3
+tcga.a7.a26h	72	female	t1	n1a	m0	h_t_2	0	plan_4
+tcga.a7.a26i	65	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a7.a2kd	53	female	t2	n2a	mx	h_t_2	8	plan_1
+tcga.a7.a3j1	63	female	t1c	n0	mx	h_t_1	0	plan_3
+tcga.a7.a426	50	female	t3	n3a	mx	h_t_1	13	plan_2
+tcga.a7.a5zx	48	female	t2	n3a	m0	h_t_1	21	plan_4
+tcga.a8.a06t	74	female	t3	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a06u	80	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a07e	81	female	t4b	n3a	mx	h_t_2	NA	plan_4
+tcga.a8.a084	81	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a08f	59	female	t2	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a08s	71	female	t1c	n1	m0	h_t_2	NA	plan_4
+tcga.a8.a091	61	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a093	61	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a09c	69	female	t2	n0	mx	h_t_2	NA	plan_4
+tcga.a8.a09e	73	female	t4b	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a09i	84	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a09k	68	female	t1c	n1	m0	h_t_2	NA	plan_4
+tcga.ac.a3w5	65	female	t2	n0	mx	h_t_1	0	plan_3
+tcga.ac.a3w6	90	female	t3	n1	mx	h_t_1	3	plan_1
+tcga.ac.a5ei	88	female	t1c	n1mi	mx	h_t_3	1	plan_2
+tcga.ac.a5xs	74	female	t2	n0	mx	h_t_1	0	plan_2
+tcga.ac.a62x	72	female	t2	n0	mx	h_t_2	0	plan_1
+tcga.ao.a0ji	56	female	t1c	n1	m0	h_t_2	0	plan_1
+tcga.ao.a1kt	78	female	t1	n1	m0	h_t_2	1	plan_3
+tcga.aq.a0y5	70	female	t2	n2a	mx	h_t_2	5	plan_1
+tcga.aq.a54n	51	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.aq.a54o	51	male	t2	n0	m0	h_t_2	0	plan_2
+tcga.aq.a7u7	55	female	t2	n2a	m0	h_t_1	4	plan_4
+tcga.ar.a1am	52	female	t3	n1	m0	h_t_1	1	plan_2
+tcga.ar.a1ar	50	female	t1	n2	m0	h_t_2	5	plan_3
+tcga.ar.a2ll	70	female	t3	n0	m0	h_t_1	0	plan_2
+tcga.ar.a2lr	49	female	t1	n0	m0	h_t_4	0	plan_2
+tcga.ar.a5qm	62	female	t2	n0	m0	h_t_1	0	plan_4
+tcga.b6.a0i8	46	female	t1	nx	m0	h_t_2	NA	plan_5
+tcga.bh.a0b6	47	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0do	78	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.bh.a0ea	72	female	t1c	n1a	m0	h_t_2	2	plan_4
+tcga.bh.a18h	63	female	t1b	n0	m0	h_t_2	0	plan_4
+tcga.bh.a1f5	62	female	t1c	n1a	m0	h_t_2	1	plan_5
+tcga.bh.a8fy	87	female	t1c	n0 (i+)	m0	h_t_1	0	plan_2
+tcga.c8.a1hl	NA	female	t3	n1	m0	h_t_3	NA	plan_4
+tcga.d8.a146	57	female	t2	n0	mx	h_t_2	0	plan_1
+tcga.e2.a158	43	female	t1c	n1mi	m0	h_t_2	1	plan_2
+tcga.e2.a15o	89	female	t1c	nx	m0	h_t_2	NA	plan_3
+tcga.e2.a1bc	63	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.e2.a1l8	52	female	t2	n1a	m0	h_t_1	2	plan_2
+tcga.e2.a1lg	50	female	t2	n0	m0	h_t_1	0	plan_1
+tcga.e2.a2p5	78	female	t2	n3	m0	h_t_1	21	plan_1
+tcga.e2.a572	72	female	t2	n2	m0	h_t_2	0	plan_1
+tcga.ew.a1j5	59	female	t3	n0 (i-)	m0	h_t_1	0	plan_4
+tcga.ew.a1p3	48	female	t2	n0	mx	h_t_2	0	plan_2
+tcga.gm.a2dd	53	female	t1c	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.gm.a2do	54	female	t1c	n0 (i-)	m0	h_t_1	0	plan_3
+tcga.ld.a74u	79	female	t3	n3a	m0	h_t_3	11	plan_3
+tcga.ll.a440	61	female	t1c	n0 (i-)	mx	h_t_1	0	plan_2
+tcga.ll.a442	56	female	t2	n0 (i-)	mx	h_t_2	0	plan_2
+tcga.ll.a50y	84	female	t2	n0	mx	h_t_1	0	plan_1
+tcga.ll.a5yp	49	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.ll.a740	61	female	t1c	n0 (i-)	mx	h_t_2	0	plan_3
+tcga.ol.a5ru	63	female	t1c	n1	mx	h_t_2	1	plan_1
+tcga.s3.aa12	82	female	t3	n1a	mx	h_t_2	2	plan_2
+tcga.s3.aa17	64	female	t2	n1mi	cm0 (i+)	h_t_2	0	plan_2
+tcga.w8.a86g	66	female	t2a	n0 (i-)	mx	h_t_1	0	plan_3
+tcga.wt.ab41	NA	female	t2	n1mi	mx	h_t_2	1	plan_1
+tcga.z7.a8r5	61	female	t3	n1a	mx	h_t_1	3	plan_4
+tcga.3c.aaau	55	female	tx	nx	mx	h_t_1	4	plan_1
+tcga.3c.aali	50	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.3c.aalj	62	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.3c.aalk	52	female	t1c	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.4h.aaak	50	female	t2	n2a	m0	h_t_1	4	plan_1
+tcga.5t.a9qa	52	female	t2	nx	mx	h_t_3	NA	plan_5
+tcga.a1.a0sb	70	female	t1c	n0	m0	h_t_3	0	plan_3
+tcga.a1.a0sd	59	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a1.a0se	56	female	t1c	n0 (i-)	m0	h_t_5	0	plan_1
+tcga.a1.a0sf	54	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.a1.a0sg	61	female	t2	n1a	m0	h_t_3	1	plan_3
+tcga.a1.a0sh	39	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a1.a0si	52	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.a1.a0sj	39	female	t3	n1a	m0	h_t_2	3	plan_1
+tcga.a1.a0sk	54	female	t2	n0 (i-)	m0	h_t_3	0	plan_3
+tcga.a1.a0sm	77	male	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.a1.a0sn	50	female	t1c	n1	mx	h_t_2	4	plan_3
+tcga.a1.a0so	67	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.a1.a0sq	45	female	t2	n1	mx	h_t_2	1	plan_1
+tcga.a2.a04n	66	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a04p	36	female	t2	n3c	m0	h_t_2	18	plan_3
+tcga.a2.a04q	48	female	t1	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a04r	36	female	t1	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a04t	62	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a04u	47	female	t2	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.a2.a04w	50	female	t2	n1mi	m0	h_t_3	1	plan_1
+tcga.a2.a04x	34	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0ck	60	female	t3	n2a	m0	h_t_1	4	plan_3
+tcga.a2.a0cl	37	female	t3	n2a	m0	h_t_2	9	plan_1
+tcga.a2.a0cm	40	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0co	85	female	t3	n0	m0	h_t_1	0	plan_1
+tcga.a2.a0cp	60	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0cr	54	female	t3	n0	m0	h_t_1	0	plan_1
+tcga.a2.a0cs	73	female	t4b	n3a	m1	h_t_2	12	plan_1
+tcga.a2.a0ct	71	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0cu	73	female	t2	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.a2.a0cv	41	female	t2	n1a	m0	h_t_2	4	plan_1
+tcga.a2.a0cw	67	female	t2	n1a	m0	h_t_2	2	plan_3
+tcga.a2.a0cx	52	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0cy	63	female	t2	n1	m0	h_t_2	1	plan_2
+tcga.a2.a0cz	46	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0d0	60	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0d1	76	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0d2	45	female	t2	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.a2.a0d3	42	female	t1c	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0d4	37	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.a2.a0em	73	female	t1	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0en	70	female	t2	n0 (i+)	m0	h_t_1	0	plan_3
+tcga.a2.a0eo	54	female	t1	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0ep	56	female	t1	n0 (i+)	m0	h_t_1	0	plan_2
+tcga.a2.a0eq	64	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0er	63	female	t1c	n1mi	m0	h_t_2	1	plan_3
+tcga.a2.a0es	52	female	t2	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.a2.a0et	58	female	t2	n2a	m0	h_t_2	5	plan_3
+tcga.a2.a0eu	79	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0ev	80	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0ew	53	female	t1b	n3a	m0	h_t_1	26	plan_2
+tcga.a2.a0ex	46	female	t3	n0 (i+)	m0	h_t_1	0	plan_3
+tcga.a2.a0ey	62	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.a2.a0st	62	female	t1c	n1a	m0	h_t_2	3	plan_3
+tcga.a2.a0su	66	female	t2	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.a2.a0sv	63	female	t2	n2a	m1	h_t_2	8	plan_2
+tcga.a2.a0sw	82	female	t2	n2	m1	h_t_2	4	plan_3
+tcga.a2.a0sx	48	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0sy	62	female	t3	n1	m0	h_t_1	1	plan_1
+tcga.a2.a0t0	59	female	t2	n1	m0	h_t_2	2	plan_3
+tcga.a2.a0t1	55	female	t3	n3	m0	h_t_2	10	plan_3
+tcga.a2.a0t2	66	female	t3	n3	m1	h_t_2	10	plan_1
+tcga.a2.a0t3	37	female	t1c	n1mi	m0	h_t_2	2	plan_3
+tcga.a2.a0t4	62	female	t2	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.a2.a0t5	39	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a0t6	50	female	t3	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.a2.a0t7	51	female	t2	n0 (i+)	m0	h_t_2	0	plan_1
+tcga.a2.a0yc	59	female	t2	n1mi	m0	h_t_2	1	plan_3
+tcga.a2.a0yd	63	female	t3	n0 (i+)	m0	h_t_1	0	plan_2
+tcga.a2.a0ye	48	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.a2.a0yf	67	female	t1b	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.a2.a0yg	63	female	t2	n3a	m0	h_t_2	14	plan_3
+tcga.a2.a0yh	53	female	t2	n2a	m0	h_t_2	5	plan_3
+tcga.a2.a0yi	62	female	t1c	n0 (i+)	m0	h_t_2	0	plan_3
+tcga.a2.a0yj	39	female	t3	n2a	m0	h_t_2	5	plan_1
+tcga.a2.a0yk	61	female	t2	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.a2.a0yl	48	female	t3	n2a	m0	h_t_1	4	plan_2
+tcga.a2.a0ym	67	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a0yt	56	female	t4b	n2a	m0	h_t_2	5	plan_1
+tcga.a2.a1fv	74	female	t3	n0 (i+)	m0	h_t_1	0	plan_2
+tcga.a2.a1fw	62	female	t3	n2a	m0	h_t_2	5	plan_1
+tcga.a2.a1fx	61	female	t3	n2a	m0	h_t_2	6	plan_3
+tcga.a2.a1fz	63	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a2.a1g0	49	female	t2	n1a	m0	h_t_3	2	plan_2
+tcga.a2.a1g1	85	female	t2	n1	m0	h_t_2	1	plan_3
+tcga.a2.a1g6	50	female	t2	n2a	m0	h_t_2	4	plan_1
+tcga.a2.a259	70	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a25b	39	female	t2	n1	m0	h_t_2	2	plan_2
+tcga.a2.a25c	50	female	t2	n1a	m0	h_t_2	3	plan_2
+tcga.a2.a25d	90	female	t2	n3a	m0	h_t_1	22	plan_3
+tcga.a2.a25e	34	female	t2	n2a	m0	h_t_2	6	plan_1
+tcga.a2.a25f	66	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a2.a3kc	55	female	t2	n1a	m0	h_t_1	2	plan_2
+tcga.a2.a3kd	47	female	t3	n1mi	m0	h_t_6	1	plan_3
+tcga.a2.a3xs	62	female	t1	n2a	m0	h_t_2	9	plan_3
+tcga.a2.a3xt	45	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.a2.a3xu	35	female	t2	n1mi	m0	h_t_2	3	plan_3
+tcga.a2.a3xv	46	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a2.a3xw	42	female	t2	n1a	m0	h_t_2	3	plan_2
+tcga.a2.a3xx	49	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.a2.a3xy	49	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.a2.a3xz	46	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.a2.a3y0	57	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.a2.a4rw	49	female	t2	n3a	m0	h_t_1	27	plan_1
+tcga.a2.a4rx	67	female	t2	n0	m0	h_t_4	0	plan_2
+tcga.a2.a4ry	46	female	t3	n3a	m0	h_t_1	18	plan_1
+tcga.a2.a4s0	77	female	t2	n0	m0	h_t_6	0	plan_2
+tcga.a2.a4s1	66	female	t2	n0	m0	h_t_4	0	plan_3
+tcga.a2.a4s2	62	female	t3	n2	m0	h_t_1	5	plan_1
+tcga.a2.a4s3	59	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.a7.a0ce	57	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a7.a0cg	78	female	t2	n0 (i-)	m0	h_t_5	0	plan_3
+tcga.a7.a0ch	79	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a7.a0cj	57	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a7.a0d9	37	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a7.a0da	62	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a7.a0db	56	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a7.a0dc	63	female	t1c	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.a7.a13d	46	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.a7.a13e	62	female	t2	n1	mx	h_t_2	2	plan_3
+tcga.a7.a13f	44	female	t3	n1a	m0	h_t_2	3	plan_1
+tcga.a7.a13h	61	female	t2	n1a	mx	h_t_1	2	plan_2
+tcga.a7.a26g	50	female	t2	n0 (i+)	m0	h_t_3	0	plan_4
+tcga.a7.a26j	49	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.a7.a3iy	71	female	t1c	n0	m0	h_t_6	0	plan_3
+tcga.a7.a3iz	62	female	t2	n0 (i+)	m0	h_t_1	NA	plan_3
+tcga.a7.a3j0	62	female	t2	n0	m0	h_t_6	0	plan_3
+tcga.a7.a3rf	79	female	t2	n0	m0	h_t_6	0	plan_3
+tcga.a7.a425	70	female	t3	n3a	mx	h_t_1	12	plan_1
+tcga.a7.a4sa	40	female	t2	n1a	m0	h_t_1	1	plan_2
+tcga.a7.a4sb	56	female	t3	n1mi	m0	h_t_1	0	plan_3
+tcga.a7.a4sc	62	female	t3	n0	mx	h_t_1	0	plan_2
+tcga.a7.a4sd	52	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.a7.a4se	54	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a7.a4sf	54	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a7.a56d	84	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a7.a5zv	62	female	t2	n0	m0	h_t_7	0	plan_3
+tcga.a7.a5zw	47	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.a7.a6vv	51	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.a7.a6vw	48	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a7.a6vx	68	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.a7.a6vy	48	female	t2	n1	m0	h_t_2	2	plan_3
+tcga.a8.a06n	66	female	t4b	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a06o	60	female	t1c	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a06p	63	female	t1c	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a06q	63	female	t3	n2	m0	h_t_2	NA	plan_4
+tcga.a8.a06r	69	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a06x	77	female	t3	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a06y	66	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a06z	84	female	t3	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a075	42	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a076	66	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a079	69	female	t4b	n3	m0	h_t_2	NA	plan_4
+tcga.a8.a07b	69	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a07c	57	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a07f	65	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a07g	65	female	t1c	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a07i	69	female	t2	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a07j	35	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a07l	58	female	t3	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a07o	51	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a07p	68	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.a8.a07r	80	female	t2	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a07s	73	female	t2	n0	m0	h_t_5	NA	plan_4
+tcga.a8.a07u	66	female	t2	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a07w	76	female	t2	nx	m1	h_t_2	NA	plan_4
+tcga.a8.a07z	85	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a081	80	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a082	58	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a083	67	female	t3	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a085	44	male	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a086	59	female	t1c	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a08a	89	female	t1c	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a08b	52	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a08c	65	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a08g	41	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a08h	66	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a08i	53	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a08j	52	female	t4b	n3	m1	h_t_2	NA	plan_4
+tcga.a8.a08l	89	female	t3	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a08o	45	female	t2	n3a	m1	h_t_2	NA	plan_4
+tcga.a8.a08p	70	female	t2	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a08r	52	female	t2	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a08t	64	female	t2	n1a	m1	h_t_2	NA	plan_4
+tcga.a8.a08x	42	female	t4d	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a08z	76	female	t4b	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a090	74	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a092	48	female	t2	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a094	75	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a095	45	female	t1c	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a096	73	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a097	65	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.a8.a099	76	female	t4b	n3a	mx	h_t_2	NA	plan_4
+tcga.a8.a09a	40	female	t2	nx	m0	h_t_2	NA	plan_4
+tcga.a8.a09b	58	female	t4b	n1a	m0	h_t_2	NA	plan_4
+tcga.a8.a09d	47	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.a8.a09g	79	female	t3	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a09m	75	female	t2	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a09n	57	female	t2	n3a	m0	h_t_2	NA	plan_4
+tcga.a8.a09q	83	female	t4b	n2a	m0	h_t_2	NA	plan_4
+tcga.a8.a09r	82	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.a8.a09t	68	female	t1c	n0	mx	h_t_1	NA	plan_4
+tcga.a8.a09v	51	female	t2	n0	m0	h_t_1	NA	plan_4
+tcga.a8.a09w	70	female	t2	n3	m0	h_t_1	NA	plan_4
+tcga.a8.a09x	62	female	t2	n3a	m0	h_t_1	NA	plan_4
+tcga.a8.a09z	83	female	t3	n0	m0	h_t_1	NA	plan_4
+tcga.a8.a0a1	84	female	t2	n0	m0	h_t_1	NA	plan_4
+tcga.a8.a0a2	66	female	t2	n0	m0	h_t_1	NA	plan_4
+tcga.a8.a0a4	73	female	t2	n0	m0	h_t_1	NA	plan_4
+tcga.a8.a0a6	64	female	t2	n3a	m0	h_t_1	NA	plan_4
+tcga.a8.a0a7	57	female	t2	n1a	m0	h_t_1	NA	plan_4
+tcga.a8.a0a9	80	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.a8.a0ab	54	female	t2	n0	m0	h_t_1	NA	plan_4
+tcga.a8.a0ad	83	female	t1c	n0	m0	h_t_5	NA	plan_4
+tcga.ac.a23c	62	female	t2	n1	mx	h_t_2	1	plan_1
+tcga.ac.a23e	50	female	t2	n1	mx	h_t_2	1	plan_1
+tcga.ac.a23g	76	female	t1c	n1	mx	h_t_1	2	plan_4
+tcga.ac.a23h	90	female	t2	nx	m0	h_t_2	NA	plan_2
+tcga.ac.a2b8	84	female	t3	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.ac.a2bk	78	female	t2	n2a	mx	h_t_2	6	plan_1
+tcga.ac.a2bm	41	female	t2	n1a	mx	h_t_2	1	plan_1
+tcga.ac.a2fb	65	female	t2	n0	mx	h_t_1	0	plan_2
+tcga.ac.a2fe	62	female	t3	n3a	mx	h_t_1	18	plan_1
+tcga.ac.a2ff	NA	female	t2	n1	mx	h_t_1	3	plan_3
+tcga.ac.a2fg	79	female	t2	n1a	mx	h_t_1	1	plan_1
+tcga.ac.a2fk	45	female	t2	n3a	m0	h_t_1	3	plan_1
+tcga.ac.a2fm	87	female	t2	n1mi	m0	h_t_1	0	plan_1
+tcga.ac.a2fo	65	female	t2	n1	mx	h_t_1	2	plan_2
+tcga.ac.a2qh	58	female	t3	n0	mx	h_t_4	0	plan_1
+tcga.ac.a2qi	76	female	t3	n1a	mx	h_t_1	2	plan_4
+tcga.ac.a2qj	48	female	t4b	n0	m0	h_t_4	0	plan_4
+tcga.ac.a3bb	46	female	t3	n2a	mx	h_t_1	5	plan_1
+tcga.ac.a3eh	79	female	t3	n3	m0	h_t_1	12	plan_1
+tcga.ac.a3hn	87	female	t2	n1a	mx	h_t_1	2	plan_2
+tcga.ac.a3od	68	female	t2	n1mi	mx	h_t_1	1	plan_1
+tcga.ac.a3qp	79	female	t2	n1mi	mx	h_t_1	1	plan_3
+tcga.ac.a3qq	53	female	t1c	n0 (i-)	mx	h_t_1	0	plan_4
+tcga.ac.a3tm	50	female	t3	n1mi	m0	h_t_1	0	plan_2
+tcga.ac.a3tn	75	female	t3	n0	mx	h_t_1	0	plan_2
+tcga.ac.a3w7	66	female	t2	n1a	mx	h_t_1	1	plan_2
+tcga.ac.a3yi	74	female	t1c	n3a	mx	h_t_1	12	plan_3
+tcga.ac.a3yj	66	female	t2	n0 (i-)	mx	h_t_3	0	plan_1
+tcga.ac.a4ze	63	female	t3	n0	m0	h_t_1	0	plan_2
+tcga.ac.a5eh	76	female	t2	n1mi	mx	h_t_2	1	plan_1
+tcga.ac.a5xu	74	female	t3	n0 (i-)	mx	h_t_2	0	plan_3
+tcga.ac.a62v	58	male	t2	n1a	m1	h_t_2	3	plan_1
+tcga.ac.a62y	79	female	t2	n1	mx	h_t_1	1	plan_1
+tcga.ac.a6iv	47	female	t2	n1	mx	h_t_1	1	plan_1
+tcga.ac.a6iw	73	female	t2	n0 (i-)	mx	h_t_2	0	plan_2
+tcga.ac.a6ix	49	female	t2	n3a	mx	h_t_1	19	plan_1
+tcga.ac.a6no	43	female	t2	n1a	mx	h_t_2	2	plan_1
+tcga.ac.a7vb	51	female	t1c	n1a	mx	h_t_2	3	plan_1
+tcga.ac.a7vc	56	female	t3	n0	mx	h_t_4	0	plan_2
+tcga.ac.a8op	72	female	t1c	n0 (i-)	mx	h_t_2	0	plan_2
+tcga.ac.a8oq	72	female	t2	n1a	mx	h_t_2	1	plan_3
+tcga.ac.a8or	75	female	t1c	n0 (i-)	mx	h_t_6	0	plan_2
+tcga.ac.a8os	71	female	t2	n0 (i-)	mx	h_t_1	0	plan_2
+tcga.an.a03x	74	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a03y	66	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a041	29	female	t2	n1a	m0	h_t_2	1	plan_5
+tcga.an.a046	68	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a049	62	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.an.a04a	36	female	t2	n2	m0	h_t_2	4	plan_2
+tcga.an.a04c	51	female	t2	n1	m0	h_t_2	2	plan_2
+tcga.an.a04d	58	female	t2	n1	m0	h_t_2	2	plan_2
+tcga.an.a0aj	79	female	t3	n0	m0	h_t_2	0	plan_1
+tcga.an.a0ak	76	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0al	41	female	t4	n0	m0	h_t_2	0	plan_1
+tcga.an.a0am	56	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0ar	55	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0as	70	female	t2	n2	m0	h_t_2	4	plan_1
+tcga.an.a0at	62	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fd	71	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0ff	32	female	t1b	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fj	59	female	t2	n2	m1	h_t_2	8	plan_1
+tcga.an.a0fk	88	female	t4	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fl	62	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fn	61	female	t1c	n0	m0	h_t_1	0	plan_1
+tcga.an.a0fs	55	female	t1c	n0	m0	h_t_1	0	plan_1
+tcga.an.a0ft	63	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.an.a0fv	58	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fw	67	female	t2	n2	m0	h_t_2	2	plan_1
+tcga.an.a0fx	52	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fy	55	female	t1c	n0	m0	h_t_2	0	plan_1
+tcga.an.a0fz	45	female	t2	n2	m0	h_t_2	1	plan_1
+tcga.an.a0g0	56	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.an.a0xl	61	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.an.a0xn	68	female	t2	n2	m0	h_t_2	1	plan_5
+tcga.an.a0xo	59	female	t2	n2	m0	h_t_2	2	plan_5
+tcga.an.a0xp	69	female	t2	n2	m0	h_t_2	1	plan_5
+tcga.an.a0xr	55	female	t2	n2	m0	h_t_2	7	plan_5
+tcga.an.a0xs	63	female	t2	n2	m0	h_t_2	1	plan_5
+tcga.an.a0xt	54	female	t2	n2	m0	h_t_2	1	plan_5
+tcga.an.a0xu	54	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.an.a0xv	67	female	t2	n2	m0	h_t_2	7	plan_5
+tcga.an.a0xw	36	female	t2	n2	m0	h_t_2	1	plan_5
+tcga.ao.a03l	34	female	t3	n2	m0	h_t_2	4	plan_1
+tcga.ao.a03m	29	female	t1c	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.ao.a03n	59	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.ao.a03o	69	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.ao.a03p	54	female	t2	n1	m0	h_t_2	0	plan_3
+tcga.ao.a03r	57	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.ao.a03t	42	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.ao.a03u	31	female	t1c	n0 (i-)	m0	h_t_3	0	plan_2
+tcga.ao.a03v	41	female	t1c	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.ao.a0j2	41	female	t1c	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.ao.a0j3	67	female	t2	n1b	m0	h_t_3	1	plan_1
+tcga.ao.a0j4	41	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.ao.a0j5	48	female	t4	n1a	m1	h_t_3	2	plan_1
+tcga.ao.a0j6	61	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.ao.a0j7	71	female	t2	n1	m0	h_t_3	3	plan_1
+tcga.ao.a0j8	61	female	t2	n0 (i+)	m0	h_t_1	0	plan_3
+tcga.ao.a0j9	61	female	t2	n3	m0	h_t_1	15	plan_3
+tcga.ao.a0ja	36	female	t2	n3	m0	h_t_2	11	plan_1
+tcga.ao.a0jb	50	female	t3	n1a	m0	h_t_2	1	plan_1
+tcga.ao.a0jc	64	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.ao.a0jd	59	female	t3	n1a	m0	h_t_2	3	plan_1
+tcga.ao.a0je	53	female	t2	n2a	m0	h_t_2	8	plan_3
+tcga.ao.a0jf	68	female	t1c	n1a	m0	h_t_2	2	plan_3
+tcga.ao.a0jg	49	female	t2	n2a	m0	h_t_3	4	plan_1
+tcga.ao.a0jj	54	female	t2	n1a	m0	h_t_1	2	plan_1
+tcga.ao.a0jl	59	female	t2	n2a	m0	h_t_2	7	plan_1
+tcga.ao.a0jm	40	female	t2	n1	m0	h_t_2	2	plan_1
+tcga.ao.a124	38	female	t2	n0 (i-)	m0	h_t_3	0	plan_1
+tcga.ao.a125	72	female	t2	n0 (i-)	m0	h_t_3	0	plan_2
+tcga.ao.a126	39	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.ao.a128	61	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.ao.a129	29	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.ao.a12a	47	female	t2	n0 (i+)	m0	h_t_2	0	plan_1
+tcga.ao.a12b	63	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.ao.a12c	42	female	t2	n1a	m0	h_t_2	2	plan_3
+tcga.ao.a12d	43	female	t1c	n1a	m0	h_t_2	1	plan_1
+tcga.ao.a12e	51	female	t3	n0 (i+)	m0	h_t_1	0	plan_1
+tcga.ao.a12f	36	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.ao.a12g	75	female	t2	n0 (i+)	m0	h_t_3	0	plan_2
+tcga.ao.a12h	69	female	t2	n0 (i-)	m0	h_t_3	0	plan_2
+tcga.ao.a1ko	46	female	t3	n0 (i+)	m0	h_t_1	0	plan_2
+tcga.ao.a1kp	77	female	t1	n1	m0	h_t_2	0	plan_2
+tcga.ao.a1kq	84	male	t4	n1	m0	h_t_2	2	plan_1
+tcga.ao.a1kr	51	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.ao.a1ks	69	female	t2	n0 (i-)	m0	h_t_1	0	plan_3
+tcga.aq.a04h	61	female	t2	n2a	mx	h_t_2	4	plan_1
+tcga.aq.a04j	45	female	t2	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.aq.a04l	48	female	t2	n0 (i-)	mx	h_t_2	0	plan_1
+tcga.aq.a1h2	84	female	t2	n2a	mx	h_t_2	13	plan_1
+tcga.aq.a1h3	49	female	t2	n3a	mx	h_t_2	14	plan_1
+tcga.ar.a0tp	43	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a0tq	27	female	t3	n1	m0	h_t_2	2	plan_2
+tcga.ar.a0tr	68	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.ar.a0ts	46	female	t2	n1	m0	h_t_2	2	plan_3
+tcga.ar.a0tt	53	female	t2	n2	m0	h_t_2	5	plan_4
+tcga.ar.a0tu	35	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.ar.a0tv	66	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.ar.a0tw	50	female	t3	n1	m0	h_t_2	3	plan_1
+tcga.ar.a0tx	64	female	t1	n1	m0	h_t_2	3	plan_4
+tcga.ar.a0ty	54	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.ar.a0tz	43	female	t2	n2	m1	h_t_2	6	plan_1
+tcga.ar.a0u0	73	female	t2	n1	m0	h_t_2	0	plan_2
+tcga.ar.a0u1	36	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.ar.a0u2	47	female	t2	n2	m0	h_t_2	4	plan_1
+tcga.ar.a0u3	59	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.ar.a0u4	54	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.ar.a1ah	51	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.ar.a1ai	47	female	t2	n0	m0	h_t_8	0	plan_2
+tcga.ar.a1aj	83	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a1ak	70	female	t1	n0	m0	h_t_1	0	plan_2
+tcga.ar.a1al	60	female	t3	n1	m0	h_t_1	3	plan_2
+tcga.ar.a1an	46	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a1ao	47	female	t1	n1	m0	h_t_2	2	plan_4
+tcga.ar.a1ap	80	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a1aq	49	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a1as	54	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.ar.a1at	62	female	t2	n0	m0	h_t_1	1	plan_4
+tcga.ar.a1au	39	female	t2	n2	m0	h_t_2	4	plan_4
+tcga.ar.a1av	68	male	t2	n1	m0	h_t_2	1	plan_1
+tcga.ar.a1aw	65	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.ar.a1ax	64	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a1ay	65	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a24h	65	female	t2	n0	m0	h_t_1	0	plan_4
+tcga.ar.a24k	46	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a24l	26	female	t2	n1	m0	h_t_2	2	plan_4
+tcga.ar.a24m	38	female	t2	n2	m0	h_t_5	4	plan_4
+tcga.ar.a24n	54	female	t1	n0	m0	h_t_2	0	plan_2
+tcga.ar.a24o	43	female	t3	n2	m0	h_t_5	7	plan_1
+tcga.ar.a24p	47	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a24q	49	female	t3	n0	m0	h_t_2	0	plan_2
+tcga.ar.a24r	45	female	t1	n2	m0	h_t_2	6	plan_4
+tcga.ar.a24s	61	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a24t	46	female	t3	n3	m0	h_t_1	15	plan_2
+tcga.ar.a24u	47	female	t1	n1	m0	h_t_2	2	plan_2
+tcga.ar.a24v	52	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.ar.a24w	55	female	t2	n1	m0	h_t_2	3	plan_4
+tcga.ar.a24x	52	female	t2	n0	m0	h_t_5	0	plan_2
+tcga.ar.a24z	57	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a250	58	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a251	51	female	t2	n2	m0	h_t_2	4	plan_4
+tcga.ar.a252	50	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a254	50	female	t2	n2	m0	h_t_2	9	plan_4
+tcga.ar.a255	62	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.ar.a256	45	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.ar.a2le	69	female	t1	n0	m0	h_t_1	0	plan_4
+tcga.ar.a2lh	55	female	t3	n3	m0	h_t_1	29	plan_1
+tcga.ar.a2lj	40	female	t3	n1	mx	h_t_1	1	plan_4
+tcga.ar.a2lk	62	female	t3	n2	m0	h_t_1	5	plan_4
+tcga.ar.a2lm	49	female	t1	n1	m0	h_t_1	1	plan_2
+tcga.ar.a2ln	65	female	t2	n0	m0	h_t_1	0	plan_4
+tcga.ar.a2lo	46	female	t2	n1	m0	h_t_1	1	plan_2
+tcga.ar.a2lq	59	female	t3	n0	m0	h_t_1	0	plan_2
+tcga.ar.a5qn	68	female	t2	n3	m0	h_t_1	10	plan_1
+tcga.ar.a5qp	54	female	t2	n1	m0	h_t_1	1	plan_3
+tcga.ar.a5qq	68	female	t3	n1	m0	h_t_3	1	plan_1
+tcga.b6.a0i1	73	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.b6.a0i2	45	female	t1c	n0 (i-)	m0	h_t_2	0	plan_5
+tcga.b6.a0i5	49	female	t2	n1b	m0	h_t_2	5	plan_4
+tcga.b6.a0i6	49	female	t1c	n1	m0	h_t_2	6	plan_1
+tcga.b6.a0i9	62	female	t3	nx	m1	h_t_2	NA	plan_5
+tcga.b6.a0ia	51	female	t2	n0 (i-)	m0	h_t_3	0	plan_4
+tcga.b6.a0ib	64	female	t3	n3	m1	h_t_2	8	plan_1
+tcga.b6.a0ic	90	female	t2	nx	mx	h_t_3	NA	plan_4
+tcga.b6.a0ie	38	female	t3	n1b	m0	h_t_5	6	plan_4
+tcga.b6.a0ig	50	female	t2	n1b	m0	h_t_2	4	plan_1
+tcga.b6.a0ih	81	female	t3	n1b	m0	h_t_1	25	plan_4
+tcga.b6.a0ij	42	female	t3	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0ik	63	female	t4	n1	m0	h_t_2	1	plan_3
+tcga.b6.a0im	75	female	t3	n0 (i-)	m0	h_t_3	0	plan_3
+tcga.b6.a0in	45	female	t1c	nx	mx	h_t_3	NA	plan_4
+tcga.b6.a0io	66	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0ip	74	female	t1c	n0 (i-)	m0	h_t_1	0	plan_1
+tcga.b6.a0iq	40	female	t3	n1b	m0	h_t_2	1	plan_1
+tcga.b6.a0re	61	female	tx	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0rg	26	female	t3	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.b6.a0rh	51	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0ri	44	female	t4b	n1b	m0	h_t_2	6	plan_1
+tcga.b6.a0rl	60	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0rm	57	female	tx	nx	mx	h_t_2	NA	plan_5
+tcga.b6.a0rn	60	female	t1c	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0ro	71	female	t4	n1a	m0	h_t_2	2	plan_1
+tcga.b6.a0rp	73	female	t2	n1b	m0	h_t_5	2	plan_3
+tcga.b6.a0rq	68	female	t3	n0 (i-)	m0	h_t_1	0	plan_4
+tcga.b6.a0rs	38	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.b6.a0rt	39	female	t3	n1	m0	h_t_2	1	plan_1
+tcga.b6.a0ru	40	female	t1c	n0 (i-)	m0	h_t_3	0	plan_4
+tcga.b6.a0rv	42	female	t3	n2	m0	h_t_5	5	plan_1
+tcga.b6.a0ws	58	female	t1c	nx	mx	h_t_2	NA	plan_3
+tcga.b6.a0wt	61	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.b6.a0wv	67	female	t2	n1b	m0	h_t_2	4	plan_1
+tcga.b6.a0ww	58	female	t2	n1b	mx	h_t_2	5	plan_1
+tcga.b6.a0wx	40	female	t3	n1b	m0	h_t_3	9	plan_1
+tcga.b6.a0wy	40	female	t3	n1b	m0	h_t_2	3	plan_3
+tcga.b6.a0wz	50	female	t2	n1b	m0	h_t_2	11	plan_4
+tcga.b6.a0x0	54	female	t1c	n0 (i-)	m0	h_t_3	0	plan_1
+tcga.b6.a0x1	48	female	t2	n1	m1	h_t_2	16	plan_4
+tcga.b6.a0x4	62	female	t2	n1b	m0	h_t_2	2	plan_1
+tcga.b6.a0x5	61	female	t2	n1b	m0	h_t_2	3	plan_1
+tcga.b6.a0x7	62	female	t1c	nx	mx	h_t_5	NA	plan_5
+tcga.b6.a1kc	67	female	t2	n1	m0	h_t_2	1	plan_3
+tcga.b6.a1kf	68	female	t2	n1	m0	h_t_2	2	plan_4
+tcga.b6.a1ki	63	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.b6.a1kn	57	female	t4b	n1	m0	h_t_2	24	plan_1
+tcga.b6.a2iu	62	female	t2	n0	m0	h_t_1	0	plan_1
+tcga.b6.a3zx	50	female	t3	n1	m1	h_t_5	1	plan_3
+tcga.b6.a400	43	female	t2	n2a	m0	h_t_2	4	plan_3
+tcga.b6.a401	47	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.b6.a402	47	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.b6.a408	55	female	t2	n3a	m0	h_t_5	10	plan_2
+tcga.b6.a409	44	female	t1c	n2a	m0	h_t_2	6	plan_2
+tcga.b6.a40b	76	female	t1b	n0 (i-)	m0	h_t_1	0	plan_3
+tcga.b6.a40c	51	female	t3	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.bh.a0au	45	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0av	52	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0aw	56	female	t1c	n1a	m0	h_t_2	2	plan_3
+tcga.bh.a0ay	62	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.bh.a0az	47	female	t3	n1a	cm0 (i+)	h_t_2	1	plan_4
+tcga.bh.a0b0	56	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0b1	66	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.bh.a0b3	53	female	t2	n1a	m0	h_t_2	2	plan_4
+tcga.bh.a0b4	65	male	t2	n2	m0	h_t_2	6	plan_1
+tcga.bh.a0b5	40	female	t2	n2a	m0	h_t_1	5	plan_1
+tcga.bh.a0b7	42	female	t2	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0b8	64	female	t1b	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.bh.a0b9	44	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0ba	51	female	t3	n3a	m0	h_t_5	27	plan_1
+tcga.bh.a0bc	60	female	t2	n3	m0	h_t_2	12	plan_4
+tcga.bh.a0bd	47	female	t1c	n1a	m0	h_t_2	2	plan_4
+tcga.bh.a0bf	56	female	t2	n1mi	m0	h_t_2	1	plan_4
+tcga.bh.a0bg	73	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0bj	41	female	t2	n1a	m0	h_t_2	2	plan_4
+tcga.bh.a0bl	35	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0bm	54	female	t2	n1a	m0	h_t_2	3	plan_3
+tcga.bh.a0bo	54	female	t1b	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0bp	76	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0bq	39	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0br	59	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0bs	55	female	t3	n1c	m0	h_t_2	0	plan_2
+tcga.bh.a0bt	56	female	t1c	n1mi	m0	h_t_2	NA	plan_4
+tcga.bh.a0bv	78	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.bh.a0bw	71	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0bz	59	female	t3	n1a	m0	h_t_2	1	plan_1
+tcga.bh.a0c0	62	female	t1c	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0c1	61	female	t3	n2a	m0	h_t_1	8	plan_1
+tcga.bh.a0c3	47	female	t1c	n0	m0	h_t_5	0	plan_4
+tcga.bh.a0c7	48	female	t2	n1mi	m0	h_t_2	1	plan_2
+tcga.bh.a0dd	58	male	t2	n1a	m0	h_t_2	0	plan_1
+tcga.bh.a0de	62	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0dg	30	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0dh	63	female	t2	n1a	m0	h_t_2	3	plan_4
+tcga.bh.a0di	63	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.bh.a0dk	49	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.bh.a0dl	64	female	t2	n0	m0	h_t_3	0	plan_4
+tcga.bh.a0dp	60	female	t3	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.bh.a0dq	42	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.bh.a0ds	71	female	t2	n2a	m0	h_t_2	8	plan_4
+tcga.bh.a0dt	41	female	t1c	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0dv	54	female	t2	n2a	m0	h_t_2	9	plan_1
+tcga.bh.a0dx	62	female	t1b	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0dz	43	female	t2	n1a	m0	h_t_2	1	plan_2
+tcga.bh.a0e0	38	female	t3	n3a	m0	h_t_2	10	plan_1
+tcga.bh.a0e1	52	female	t2	n1	m0	h_t_2	2	plan_2
+tcga.bh.a0e2	49	female	t2	n2a	m0	h_t_2	4	plan_1
+tcga.bh.a0e6	69	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0e7	79	female	t2	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0e9	53	female	t2	n1a	m0	h_t_1	3	plan_1
+tcga.bh.a0eb	69	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0ee	68	female	t3	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.bh.a0ei	51	female	t1c	n1a	m0	h_t_2	2	plan_4
+tcga.bh.a0gy	67	female	t2	n1	m0	h_t_2	3	plan_4
+tcga.bh.a0gz	62	female	t1c	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0h0	69	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0h3	46	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0h5	45	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0h6	82	female	t1b	nx	m0	h_t_2	0	plan_4
+tcga.bh.a0h7	65	female	t1c	n2a	m0	h_t_2	6	plan_1
+tcga.bh.a0h9	69	female	t2	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0ha	31	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0hb	55	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0hf	77	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0hi	78	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0hk	81	female	t2	n1	m0	h_t_2	2	plan_1
+tcga.bh.a0hl	56	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.bh.a0hn	67	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0ho	48	female	t1c	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0hp	65	female	t3	n2a	m0	h_t_1	8	plan_1
+tcga.bh.a0hq	56	female	t2	n0 (i+)	m0	h_t_2	0	plan_4
+tcga.bh.a0hu	52	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0hw	62	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0hx	54	female	t2	n1a	m0	h_t_2	2	plan_2
+tcga.bh.a0hy	60	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a0rx	59	female	t2	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0w3	58	female	t1c	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0w4	46	female	t2	n0 (i-)	m0	h_t_2	NA	plan_4
+tcga.bh.a0w5	77	female	t1c	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a0w7	49	female	t1c	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.bh.a0wa	82	female	t1c	n0 (i-)	m0	h_t_9	0	plan_4
+tcga.bh.a18f	50	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.bh.a18g	81	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.bh.a18i	53	female	t1c	n1a	cm0 (i+)	h_t_2	1	plan_4
+tcga.bh.a18j	56	female	t4b	n2	m1	h_t_2	NA	plan_1
+tcga.bh.a18k	46	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.bh.a18l	50	female	t3	n1mi	m0	h_t_2	1	plan_4
+tcga.bh.a18m	39	female	t3	n1	m0	h_t_2	4	plan_1
+tcga.bh.a18n	88	female	t2	n1b	m0	h_t_2	2	plan_1
+tcga.bh.a18p	60	female	t1	n0	m0	h_t_2	0	plan_2
+tcga.bh.a18q	56	female	t2	n1b	m0	h_t_2	2	plan_1
+tcga.bh.a18r	50	female	t2b	n1	m0	h_t_2	10	plan_1
+tcga.bh.a18s	79	female	t1c	n0	m0	h_t_6	0	plan_4
+tcga.bh.a18t	70	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.bh.a18u	72	female	t2	n2a	m0	h_t_2	9	plan_4
+tcga.bh.a18v	48	female	t2	n1b	m0	h_t_2	0	plan_4
+tcga.bh.a1en	78	female	t2	nx	m0	h_t_2	NA	plan_4
+tcga.bh.a1eo	68	female	t1c	n1	m0	h_t_5	1	plan_4
+tcga.bh.a1es	35	female	t2	n1a	m0	h_t_2	1	plan_4
+tcga.bh.a1et	55	female	t1	n0	m0	h_t_2	1	plan_4
+tcga.bh.a1eu	83	female	t1	n0	m0	h_t_2	NA	plan_5
+tcga.bh.a1ev	45	female	t3	n1b	m0	h_t_2	3	plan_1
+tcga.bh.a1ew	38	female	t2	n1b	m0	h_t_2	1	plan_4
+tcga.bh.a1ex	67	female	t2	n1b	m0	h_t_2	2	plan_4
+tcga.bh.a1ey	79	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.bh.a1f0	80	female	t1a	n1c	m0	h_t_2	1	plan_1
+tcga.bh.a1f2	53	female	t4b	n1b	m0	h_t_2	6	plan_1
+tcga.bh.a1f6	51	female	t4d	n2a	mx	h_t_2	6	plan_1
+tcga.bh.a1f8	89	female	t4b	n2	m0	h_t_2	12	plan_1
+tcga.bh.a1fb	60	female	t2	n1b	m0	h_t_2	0	plan_5
+tcga.bh.a1fc	78	female	t1c	n1b	m0	h_t_8	1	plan_4
+tcga.bh.a1fd	68	female	t1c	n0	m0	h_t_2	0	plan_5
+tcga.bh.a1fe	31	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.bh.a1fg	88	female	t1c	nx	m0	h_t_2	NA	plan_4
+tcga.bh.a1fh	47	female	t2	n1b	m1	h_t_2	8	plan_1
+tcga.bh.a1fj	66	female	t3	n1b	m0	h_t_2	6	plan_1
+tcga.bh.a1fl	69	female	t2	n1b	m0	h_t_2	4	plan_4
+tcga.bh.a1fm	44	female	t2	n2	m0	h_t_2	8	plan_1
+tcga.bh.a1fn	34	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.bh.a1fr	73	female	t4b	n1a	m0	h_t_3	4	plan_4
+tcga.bh.a1fu	44	female	t1c	n0	m0	h_t_2	0	plan_1
+tcga.bh.a201	64	female	t1	n0	m0	h_t_2	0	plan_4
+tcga.bh.a202	60	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.bh.a203	78	female	t2	n1b	m0	h_t_2	35	plan_3
+tcga.bh.a204	80	female	t2	n1b	m0	h_t_2	2	plan_1
+tcga.bh.a208	48	female	t2	n1b	m0	h_t_2	3	plan_3
+tcga.bh.a209	77	female	t1c	n0	m0	h_t_8	0	plan_3
+tcga.bh.a28o	50	female	t3a	n3	m0	h_t_1	14	plan_4
+tcga.bh.a28q	46	female	t2	n1a	m0	h_t_1	2	plan_1
+tcga.bh.a2l8	45	female	t2	n0 (i-)	m0	h_t_1	0	plan_4
+tcga.bh.a42t	75	female	t2	n0 (i+)	m0	h_t_1	NA	plan_2
+tcga.bh.a42u	80	female	t2	n0	m0	h_t_1	NA	plan_2
+tcga.bh.a42v	41	female	t1c	n1mi	m0	h_t_2	1	plan_1
+tcga.bh.a5iz	51	female	t2	n1a	cm0 (i+)	h_t_2	1	plan_3
+tcga.bh.a5j0	63	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.bh.a6r8	46	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.bh.a6r9	61	female	t2	n0	m0	h_t_4	NA	plan_1
+tcga.bh.a8fz	58	female	t1b	n0	m0	h_t_1	0	plan_2
+tcga.bh.a8g0	54	female	t2	n1a	m0	h_t_1	3	plan_2
+tcga.bh.ab28	53	female	t3	n1a	m0	h_t_1	3	plan_1
+tcga.c8.a12k	80	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.c8.a12l	67	female	t2	n0 (i-)	m0	h_t_2	NA	plan_4
+tcga.c8.a12m	70	female	t2	n0 (i-)	m0	h_t_2	NA	plan_4
+tcga.c8.a12n	58	female	t2	n0 (i-)	m0	h_t_2	NA	plan_4
+tcga.c8.a12o	50	female	t2	n0 (i-)	m0	h_t_2	NA	plan_4
+tcga.c8.a12p	55	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.c8.a12q	78	female	t1	n2	m0	h_t_2	NA	plan_4
+tcga.c8.a12t	NA	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.c8.a12u	46	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.c8.a12v	55	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.c8.a12w	49	female	t4	n1	m0	h_t_2	NA	plan_4
+tcga.c8.a12x	62	female	t2	n1	m0	h_t_6	NA	plan_4
+tcga.c8.a12y	NA	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.c8.a12z	45	female	t2	n1	m0	h_t_2	2	plan_4
+tcga.c8.a130	52	female	t3	n2	m0	h_t_2	NA	plan_4
+tcga.c8.a131	82	female	t2	n2	m0	h_t_2	4	plan_4
+tcga.c8.a132	56	female	t2	n1	m0	h_t_2	1	plan_4
+tcga.c8.a133	65	female	t3	n1	m0	h_t_3	NA	plan_1
+tcga.c8.a134	52	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a135	64	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.c8.a137	34	female	t2	n1	m0	h_t_2	NA	plan_1
+tcga.c8.a138	54	female	t2	n2	m0	h_t_2	NA	plan_1
+tcga.c8.a1he	NA	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a1hf	NA	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a1hg	NA	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a1hi	NA	female	t2	n2	m0	h_t_2	NA	plan_4
+tcga.c8.a1hj	53	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a1hk	NA	female	t2	n1	m0	h_t_2	NA	plan_4
+tcga.c8.a1hm	74	female	t2	n0	m0	h_t_2	NA	plan_1
+tcga.c8.a1hn	56	female	t2	n0	m0	h_t_2	NA	plan_1
+tcga.c8.a1ho	34	female	t3	n3	m0	h_t_2	NA	plan_5
+tcga.c8.a26v	47	female	t3	n2	m0	h_t_2	NA	plan_1
+tcga.c8.a26w	58	female	t2	n1	m0	h_t_2	NA	plan_1
+tcga.c8.a26x	58	female	t1	n1	m0	h_t_2	NA	plan_1
+tcga.c8.a26y	90	female	t2	n0	m0	h_t_2	NA	plan_1
+tcga.c8.a26z	NA	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a273	NA	female	t2	n1	m0	h_t_2	2	plan_4
+tcga.c8.a274	63	female	t2	n0	m0	h_t_2	NA	plan_4
+tcga.c8.a275	56	female	t1	n1	m0	h_t_2	NA	plan_4
+tcga.c8.a278	61	female	t2	n2	m0	h_t_2	NA	plan_4
+tcga.c8.a27a	48	female	t2	n1	m0	h_t_2	NA	plan_1
+tcga.c8.a27b	48	female	t3	n0	m0	h_t_2	NA	plan_1
+tcga.c8.a3m7	60	female	t4b	n0	m0	h_t_1	0	plan_1
+tcga.c8.a3m8	68	female	t1c	n0	m0	h_t_1	NA	plan_1
+tcga.c8.a8hp	59	female	t2	n2	m0	h_t_4	6	plan_1
+tcga.c8.a8hq	53	female	t2	n1	m0	h_t_6	3	plan_1
+tcga.c8.a8hr	49	female	t3	n2	m0	h_t_1	5	plan_1
+tcga.c8.a9fz	49	female	t2	n1	m0	h_t_5	3	plan_1
+tcga.d8.a13y	52	female	t1c	n0	m0	h_t_2	0	plan_1
+tcga.d8.a13z	51	female	t2	n2a	m0	h_t_2	9	plan_1
+tcga.d8.a140	62	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.d8.a141	40	female	t1c	n1	m0	h_t_2	1	plan_1
+tcga.d8.a142	74	female	t3	n0	m0	h_t_2	0	plan_1
+tcga.d8.a143	51	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a145	80	female	t1c	n1a	m0	h_t_2	1	plan_2
+tcga.d8.a147	45	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.d8.a1j8	77	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.d8.a1j9	48	female	t1c	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1ja	60	female	t4b	nx	m0	h_t_2	NA	plan_1
+tcga.d8.a1jb	54	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.d8.a1jc	59	female	t2	n2a	m0	h_t_2	4	plan_1
+tcga.d8.a1jd	41	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.d8.a1je	62	female	t1c	n1a	m0	h_t_2	3	plan_1
+tcga.d8.a1jf	79	female	t1c	n2a	m0	h_t_2	8	plan_1
+tcga.d8.a1jg	62	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.d8.a1jh	56	female	t1c	n0	m0	h_t_2	NA	plan_1
+tcga.d8.a1ji	54	female	t1c	n1a	mx	h_t_2	2	plan_1
+tcga.d8.a1jj	54	female	t2	n0	m0	h_t_2	0	plan_4
+tcga.d8.a1jk	90	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1jl	72	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1jm	59	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.d8.a1jn	80	female	t3	n3a	mx	h_t_1	11	plan_1
+tcga.d8.a1jp	73	female	t1c	n0	m0	h_t_2	NA	plan_3
+tcga.d8.a1js	77	female	t1c	n0	m0	h_t_3	0	plan_3
+tcga.d8.a1jt	70	female	t2	n0	m0	h_t_3	0	plan_1
+tcga.d8.a1ju	51	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.d8.a1x5	81	female	t2	n3a	mx	h_t_2	14	plan_1
+tcga.d8.a1x6	80	female	t3	n2a	mx	h_t_2	5	plan_1
+tcga.d8.a1x7	40	female	t2	n0	mx	h_t_3	0	plan_2
+tcga.d8.a1x8	62	female	t1c	n2a	m0	h_t_1	9	plan_1
+tcga.d8.a1x9	66	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.d8.a1xa	64	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.d8.a1xb	62	female	t2	n1a	m0	h_t_2	1	plan_1
+tcga.d8.a1xc	85	female	t4b	n1a	m0	h_t_6	1	plan_1
+tcga.d8.a1xd	36	female	t1c	n2a	m0	h_t_2	6	plan_1
+tcga.d8.a1xf	45	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1xg	86	female	t4b	n1a	m0	h_t_2	2	plan_1
+tcga.d8.a1xj	76	female	t3	n1a	mx	h_t_3	2	plan_1
+tcga.d8.a1xk	55	female	t2	n1a	mx	h_t_2	3	plan_1
+tcga.d8.a1xl	34	female	t2	n1a	mx	h_t_2	2	plan_3
+tcga.d8.a1xm	57	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.d8.a1xo	56	female	t2	n1a	m0	h_t_1	1	plan_1
+tcga.d8.a1xq	69	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1xr	56	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.d8.a1xs	48	male	t2	n3a	m0	h_t_3	25	plan_1
+tcga.d8.a1xt	61	female	t1c	n1a	m0	h_t_2	3	plan_1
+tcga.d8.a1xu	56	female	t1c	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1xv	84	female	t2	n0	m0	h_t_6	0	plan_1
+tcga.d8.a1xw	53	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a1xy	74	female	t2	n0	mx	h_t_2	0	plan_2
+tcga.d8.a1xz	81	female	t1c	n2a	mx	h_t_2	6	plan_1
+tcga.d8.a1y0	65	female	t1c	n2a	mx	h_t_2	9	plan_1
+tcga.d8.a1y1	80	female	t3	n1a	mx	h_t_2	1	plan_1
+tcga.d8.a1y2	71	female	t2	n0	mx	h_t_2	0	plan_1
+tcga.d8.a1y3	61	female	t2	n2a	mx	h_t_2	5	plan_1
+tcga.d8.a27e	66	female	t1c	n0	m0	h_t_3	0	plan_5
+tcga.d8.a27f	40	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.d8.a27g	75	female	t2	n0	m0	h_t_1	0	plan_1
+tcga.d8.a27h	72	female	t2	n0	m0	h_t_2	NA	plan_1
+tcga.d8.a27i	58	female	t1c	n2a	m0	h_t_1	4	plan_1
+tcga.d8.a27k	47	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.d8.a27l	49	female	t1c	n2a	m0	h_t_2	2	plan_1
+tcga.d8.a27m	59	female	t1c	n0	m0	h_t_2	NA	plan_1
+tcga.d8.a27n	36	female	t2	n2a	m0	h_t_2	4	plan_1
+tcga.d8.a27p	64	female	t1c	n0	m0	h_t_2	0	plan_1
+tcga.d8.a27r	41	female	t2	n3a	m0	h_t_2	11	plan_1
+tcga.d8.a27t	53	female	t2	n3a	m0	h_t_1	12	plan_2
+tcga.d8.a27v	62	female	t2	n0	m0	h_t_1	0	plan_2
+tcga.d8.a27w	55	female	t4b	n0	m0	h_t_6	0	plan_1
+tcga.d8.a3z5	54	female	t2	n3a	m0	h_t_1	19	plan_2
+tcga.d8.a3z6	56	female	t3	n3a	m0	h_t_1	19	plan_1
+tcga.d8.a4z1	68	female	t1c	n0	m0	h_t_1	0	plan_2
+tcga.d8.a73u	88	female	t2	n0	m0	h_t_1	NA	plan_2
+tcga.d8.a73w	79	female	t3	n1a	mx	h_t_6	1	plan_2
+tcga.d8.a73x	53	female	t2	n0	m0	h_t_3	NA	plan_2
+tcga.e2.a105	79	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.e2.a106	34	female	t1c	n1mi	m0	h_t_2	1	plan_2
+tcga.e2.a107	54	female	t3	n2a	m0	h_t_1	4	plan_2
+tcga.e2.a108	64	female	t2	n2a	m0	h_t_2	4	plan_3
+tcga.e2.a109	64	female	t2	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.e2.a10a	41	female	t3	n0 (i-)	m0	h_t_2	0	plan_2
+tcga.e2.a10b	67	female	t2	n1a	m0	h_t_2	2	plan_3
+tcga.e2.a10c	54	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.e2.a10e	64	female	t1c	n1a	m0	h_t_2	2	plan_2
+tcga.e2.a10f	47	female	t2	n0 (i-)	m0	h_t_1	0	plan_3
+tcga.e2.a14n	37	female	t2	n1	m0	h_t_2	1	plan_2
+tcga.e2.a14o	76	female	t3	n1a	m0	h_t_2	2	plan_1
+tcga.e2.a14p	79	female	t2	n3	m0	h_t_2	10	plan_3
+tcga.e2.a14q	50	female	t2	n1mi	m0	h_t_2	1	plan_3
+tcga.e2.a14r	62	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e2.a14s	65	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a14t	52	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.e2.a14u	74	female	t1c	n0	m0	h_t_1	0	plan_3
+tcga.e2.a14v	53	female	t2	n1	m0	h_t_2	3	plan_3
+tcga.e2.a14w	78	male	t2	n0	m0	h_t_2	0	plan_2
+tcga.e2.a14x	55	female	t2	n2	m0	h_t_2	5	plan_3
+tcga.e2.a14y	35	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.e2.a14z	64	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a150	48	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e2.a152	56	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a153	51	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.e2.a154	68	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a155	58	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.e2.a156	61	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a159	50	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e2.a15a	45	female	t2	n3a	m0	h_t_2	13	plan_2
+tcga.e2.a15c	61	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a15d	47	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e2.a15e	40	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.e2.a15f	64	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a15g	76	female	t2	n0	m0	h_t_5	0	plan_3
+tcga.e2.a15h	38	female	t1c	n1mi	m0	h_t_2	1	plan_3
+tcga.e2.a15i	44	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.e2.a15j	51	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.e2.a15k	58	female	t2	n1a	m0	h_t_2	2	plan_3
+tcga.e2.a15l	65	female	t2	n0	m0	h_t_1	0	plan_2
+tcga.e2.a15m	66	female	t2	n0	m0	h_t_1	0	plan_3
+tcga.e2.a15p	61	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a15r	64	female	t1c	n1a	m0	h_t_2	3	plan_3
+tcga.e2.a15s	34	female	t2	n1	m0	h_t_2	1	plan_2
+tcga.e2.a15t	65	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.e2.a1az	63	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.e2.a1b0	50	female	t2	n2	m0	h_t_2	6	plan_1
+tcga.e2.a1b1	45	female	t2	n1	m0	h_t_2	1	plan_3
+tcga.e2.a1b4	74	female	t1c	n2a	m0	h_t_2	3	plan_3
+tcga.e2.a1b5	46	female	t2	n0	m0	h_t_1	0	plan_3
+tcga.e2.a1b6	44	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.e2.a1bd	53	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e2.a1ie	61	female	t2	n1	m0	h_t_2	1	plan_3
+tcga.e2.a1if	74	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a1ig	45	female	t2	n1mi	m0	h_t_2	1	plan_2
+tcga.e2.a1ih	80	female	t1c	n0	m0	h_t_1	0	plan_3
+tcga.e2.a1ii	51	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a1ij	57	female	t1c	n0	m0	h_t_1	0	plan_3
+tcga.e2.a1ik	71	female	t1c	n1mi	m0	h_t_2	1	plan_3
+tcga.e2.a1il	78	female	t1c	n1a	m0	h_t_1	1	plan_3
+tcga.e2.a1in	60	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a1io	37	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a1iu	60	female	t1c	n0 (mol+)	m0	h_t_2	0	plan_2
+tcga.e2.a1l6	44	female	t1c	n1mi	m0	h_t_2	1	plan_2
+tcga.e2.a1l7	40	female	t2	n2	m0	h_t_2	7	plan_1
+tcga.e2.a1l9	40	female	t1c	n1mi	m0	h_t_2	1	plan_3
+tcga.e2.a1la	59	female	t1c	n1a	m0	h_t_2	1	plan_2
+tcga.e2.a1lb	41	female	t2	n1	m0	h_t_2	2	plan_3
+tcga.e2.a1le	71	female	t2	n3a	m0	h_t_2	27	plan_2
+tcga.e2.a1lh	59	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e2.a1li	57	female	t2	n1	m0	h_t_2	0	plan_3
+tcga.e2.a1lk	84	female	t4b	n3a	m0	h_t_2	11	plan_1
+tcga.e2.a1ll	74	female	t3	n2a	mx	h_t_2	5	plan_2
+tcga.e2.a1ls	46	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.e2.a2p6	77	female	t2	n1	m0	h_t_1	1	plan_3
+tcga.e2.a3dx	43	female	t2	n3	m0	h_t_1	25	plan_1
+tcga.e2.a56z	69	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.e2.a570	47	female	t1c	n1mi	m0	h_t_2	1	plan_2
+tcga.e2.a573	48	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.e2.a574	44	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e2.a576	69	female	t1c	n0	mx	h_t_1	0	plan_3
+tcga.e2.a9ru	90	female	t2	n3a	mx	h_t_2	12	plan_3
+tcga.e9.a1n3	70	female	t1c	n2	m0	h_t_5	7	plan_1
+tcga.e9.a1n4	41	female	t2	n2	m0	h_t_5	4	plan_5
+tcga.e9.a1n5	45	female	t2	n1	m0	h_t_5	2	plan_5
+tcga.e9.a1n6	52	female	t2	n1	m0	h_t_2	2	plan_5
+tcga.e9.a1n8	48	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.e9.a1n9	58	female	t2	n0	m0	h_t_5	0	plan_5
+tcga.e9.a1na	58	female	t2	n0	m0	h_t_5	0	plan_5
+tcga.e9.a1nc	61	female	t2	n1	m0	h_t_5	1	plan_5
+tcga.e9.a1nd	75	female	t2	n1	m0	h_t_2	1	plan_5
+tcga.e9.a1ne	28	female	t2	n1	m0	h_t_2	1	plan_5
+tcga.e9.a1nf	60	female	t2	n0	m0	h_t_5	0	plan_5
+tcga.e9.a1ng	62	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.e9.a1nh	71	female	t2	n1	m0	h_t_2	3	plan_1
+tcga.e9.a1ni	51	female	t2	n0	m0	h_t_5	0	plan_5
+tcga.e9.a1qz	61	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.e9.a1r0	58	female	t1c	n1	m0	h_t_2	1	plan_5
+tcga.e9.a1r2	51	female	t2	n3	mx	h_t_2	17	plan_3
+tcga.e9.a1r3	70	female	t2	n3	m0	h_t_2	10	plan_1
+tcga.e9.a1r4	66	female	t1c	n0	m0	h_t_2	0	plan_5
+tcga.e9.a1r5	63	female	t1c	n0	m0	h_t_2	0	plan_3
+tcga.e9.a1r6	63	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e9.a1r7	64	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e9.a1ra	48	female	t1c	n0	m0	h_t_2	0	plan_5
+tcga.e9.a1rb	40	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.e9.a1rc	56	female	t4b	n3	m0	h_t_5	10	plan_1
+tcga.e9.a1rd	67	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.e9.a1re	74	female	t2	n2	m0	h_t_2	9	plan_1
+tcga.e9.a1rf	68	female	t2	n2	m0	h_t_2	5	plan_1
+tcga.e9.a1rg	62	female	t1c	n2	m0	h_t_2	4	plan_3
+tcga.e9.a1rh	63	female	t2	n0	m0	h_t_2	0	plan_3
+tcga.e9.a1ri	43	female	t1c	n2	m0	h_t_5	5	plan_1
+tcga.e9.a226	45	female	t2	n2	m0	h_t_2	6	plan_1
+tcga.e9.a227	42	female	t2	n1	m0	h_t_2	1	plan_3
+tcga.e9.a228	58	female	t2	n1	m0	h_t_2	2	plan_5
+tcga.e9.a229	37	female	t1c	n0	m0	h_t_2	0	plan_5
+tcga.e9.a22a	74	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.e9.a22b	71	female	t1c	n0	m0	h_t_5	0	plan_5
+tcga.e9.a22d	38	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.e9.a22e	56	female	t2	n2	m0	h_t_2	4	plan_5
+tcga.e9.a22g	47	female	t2	n0	m0	h_t_2	0	plan_5
+tcga.e9.a22h	42	female	t2	n1	m0	h_t_2	1	plan_1
+tcga.e9.a243	52	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.e9.a244	54	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.e9.a245	47	female	t2	n1	m0	h_t_2	3	plan_3
+tcga.e9.a247	59	female	t1c	n0 (i-)	m0	h_t_2	0	plan_5
+tcga.e9.a248	51	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.e9.a249	45	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.e9.a24a	69	female	t1c	n1	m0	h_t_2	1	plan_5
+tcga.e9.a295	71	female	t2	n0 (i-)	m0	h_t_1	0	plan_1
+tcga.e9.a2js	72	female	t2	n1	m0	h_t_1	1	plan_3
+tcga.e9.a2jt	63	female	t2	n0 (i-)	m0	h_t_1	0	plan_3
+tcga.e9.a3ho	49	female	t2	n0 (i-)	m0	h_t_1	0	plan_1
+tcga.e9.a3q9	78	female	t3	n3	m0	h_t_1	22	plan_5
+tcga.e9.a3qa	33	female	t2	n0 (i-)	m0	h_t_8	0	plan_5
+tcga.e9.a3x8	48	female	t2	n1	m0	h_t_1	4	plan_1
+tcga.e9.a54x	85	female	t1b	n0 (i-)	m0	h_t_6	0	plan_3
+tcga.e9.a54y	63	female	t2	n2	m0	h_t_1	8	plan_1
+tcga.e9.a5fk	60	female	t2	n3	m0	h_t_1	10	plan_1
+tcga.e9.a5fl	65	female	t3	n0	m0	h_t_4	0	plan_1
+tcga.e9.a5uo	41	female	t2	n0	m0	h_t_6	0	plan_4
+tcga.e9.a5up	63	female	t2	n0	m0	h_t_3	0	plan_5
+tcga.e9.a6he	45	female	t3	n3	mx	h_t_1	12	plan_2
+tcga.ew.a1iw	80	female	t2	n1a	mx	h_t_1	2	plan_4
+tcga.ew.a1ix	48	female	t1b	n1a	mx	h_t_3	1	plan_4
+tcga.ew.a1iy	38	female	t1c	n0	mx	h_t_2	0	plan_3
+tcga.ew.a1iz	53	female	t2	n2a	mx	h_t_2	5	plan_1
+tcga.ew.a1j1	38	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.ew.a1j2	50	female	t1c	n1mi	mx	h_t_1	1	plan_4
+tcga.ew.a1j3	61	female	t1c	n0	m0	h_t_1	0	plan_4
+tcga.ew.a1j6	70	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.ew.a1ov	56	female	t2	n1mi	mx	h_t_2	0	plan_3
+tcga.ew.a1ow	58	female	t2	n0	mx	h_t_2	0	plan_3
+tcga.ew.a1ox	43	female	t2	n0	mx	h_t_6	0	plan_3
+tcga.ew.a1oy	63	female	t2	n0	mx	h_t_2	0	plan_3
+tcga.ew.a1oz	56	female	t2	n0 (i-)	m0	h_t_2	0	plan_4
+tcga.ew.a1p0	55	female	t2	n1b	mx	h_t_3	1	plan_1
+tcga.ew.a1p1	68	female	t2	n3b	mx	h_t_2	11	plan_3
+tcga.ew.a1p4	43	female	t2	n0 (i-)	m0	h_t_8	0	plan_2
+tcga.ew.a1p5	77	female	t2	n1a	m0	h_t_2	3	plan_1
+tcga.ew.a1p6	64	female	t2	n1a	m0	h_t_2	2	plan_3
+tcga.ew.a1p7	59	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.ew.a1p8	58	female	t2	n3b	m0	h_t_2	14	plan_3
+tcga.ew.a1pa	59	female	t2	n1a	m0	h_t_2	1	plan_3
+tcga.ew.a1pb	70	female	t3	n1a	mx	h_t_2	2	plan_2
+tcga.ew.a1pc	66	female	t3	n0 (i-)	mx	h_t_2	0	plan_1
+tcga.ew.a1pd	61	male	t1c	n1a	m0	h_t_2	2	plan_1
+tcga.ew.a1pe	56	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.ew.a1pf	50	female	t1c	n0	m0	h_t_2	0	plan_4
+tcga.ew.a1pg	53	female	t2	n1a	mx	h_t_1	1	plan_1
+tcga.ew.a1ph	52	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.ew.a2fr	59	female	t1b	n3a	mx	h_t_2	19	plan_3
+tcga.ew.a2fs	41	female	t2	n1mi	mx	h_t_2	1	plan_3
+tcga.ew.a2fv	39	female	t3	n3a	mx	h_t_3	29	plan_1
+tcga.ew.a2fw	52	female	t2	n0 (i-)	mx	h_t_3	0	plan_3
+tcga.ew.a3e8	60	female	t3	n0	mx	h_t_1	0	plan_2
+tcga.ew.a3u0	61	female	t3	n1a	m0	h_t_2	1	plan_4
+tcga.ew.a423	75	female	t2	n0	mx	h_t_1	0	plan_3
+tcga.ew.a424	51	female	t3	n1	mx	h_t_1	0	plan_2
+tcga.ew.a6s9	34	female	t1c	n1	m0	h_t_2	1	plan_3
+tcga.ew.a6sa	59	male	t2	n0 (i+)	mx	h_t_2	NA	plan_2
+tcga.ew.a6sb	62	female	t2	n0	m0	h_t_2	0	plan_1
+tcga.ew.a6sc	60	female	t2	n0	m0	h_t_1	0	plan_3
+tcga.ew.a6sd	32	female	t2	n1a	m0	h_t_2	2	plan_3
+tcga.gi.a2c8	63	female	t4b	n0	mx	h_t_2	0	plan_1
+tcga.gi.a2c9	58	female	t3	n0	mx	h_t_2	0	plan_3
+tcga.gm.a2d9	69	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.gm.a2da	46	female	t2	n1b	m0	h_t_2	2	plan_1
+tcga.gm.a2db	62	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.gm.a2dc	57	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.gm.a2df	53	female	t1c	n1a	m0	h_t_2	1	plan_3
+tcga.gm.a2dh	58	female	t1c	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.gm.a2di	52	female	t1c	n0 (i+)	m0	h_t_2	0	plan_2
+tcga.gm.a2dk	58	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.gm.a2dl	50	female	t1c	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.gm.a2dm	57	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.gm.a2dn	58	female	t2	n0 (i-)	m0	h_t_2	0	plan_1
+tcga.gm.a3nw	63	female	t2	n0 (i-)	m0	h_t_1	0	plan_2
+tcga.gm.a3ny	72	female	t2	n1a	m0	h_t_1	1	plan_3
+tcga.gm.a3xg	46	female	t3	n1a	m0	h_t_1	3	plan_1
+tcga.gm.a3xl	49	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.gm.a3xn	44	female	t1c	n2a	m0	h_t_1	5	plan_3
+tcga.gm.a4e0	67	female	t3	n3a	m0	h_t_1	10	plan_1
+tcga.gm.a5pv	63	female	t2	n1a	m0	h_t_1	1	plan_1
+tcga.gm.a5px	65	female	t2	n1mi	m0	h_t_1	1	plan_2
+tcga.hn.a2nl	56	female	t2	n0	m0	h_t_1	0	plan_2
+tcga.hn.a2ob	45	female	t2	n1	m0	h_t_1	2	plan_2
+tcga.jl.a3yw	NA	female	t2	n1	m0	h_t_1	3	plan_1
+tcga.jl.a3yx	NA	female	t2	n0	m0	h_t_1	0	plan_1
+tcga.ld.a66u	44	female	t2	n1mi	mx	h_t_1	2	plan_1
+tcga.ld.a7w5	52	female	t2	n3a	m0	h_t_2	23	plan_3
+tcga.ld.a7w6	54	female	t2	n1a	m0	h_t_3	2	plan_1
+tcga.ld.a9qf	73	female	t1c	n0	m0	h_t_2	0	plan_2
+tcga.ll.a441	62	female	t1c	n0	mx	h_t_2	0	plan_3
+tcga.ll.a5yl	64	female	t2	n1a	mx	h_t_1	3	plan_2
+tcga.ll.a5ym	88	female	t4b	nx	m0	h_t_2	NA	plan_4
+tcga.ll.a5yn	46	female	t2	n0 (i-)	m0	h_t_2	0	plan_3
+tcga.ll.a5yo	50	female	t1b	n0	mx	h_t_2	0	plan_3
+tcga.ll.a6fp	90	female	t2	nx	mx	h_t_1	NA	plan_2
+tcga.ll.a6fq	77	female	t2	n2a	mx	h_t_2	7	plan_1
+tcga.ll.a6fr	50	female	t2	n0 (i-)	mx	h_t_2	0	plan_3
+tcga.ll.a73y	67	female	t1c	n0	mx	h_t_2	0	plan_2
+tcga.ll.a73z	55	female	t1c	nx	m1	h_t_2	NA	plan_3
+tcga.ll.a7sz	49	female	t2	n1a	mx	h_t_2	2	plan_4
+tcga.ll.a7t0	70	female	t2	n1a	m0	h_t_2	1	plan_2
+tcga.ll.a8f5	61	female	t2	n0 (i-)	mx	h_t_2	0	plan_3
+tcga.ll.a9q3	69	female	t3	n3a	mx	h_t_1	28	plan_1
+tcga.lq.a4e4	73	female	t3	n1a	mx	h_t_1	3	plan_1
+tcga.ms.a51u	44	female	t2	n1	m0	h_t_1	2	plan_1
+tcga.ok.a5q2	59	female	t2	n1a	mx	h_t_1	2	plan_1
+tcga.ol.a5d6	71	female	t2	n0	mx	h_t_2	NA	plan_2
+tcga.ol.a5d7	70	female	t2	n0	mx	h_t_2	NA	plan_3
+tcga.ol.a5d8	40	female	t3	n0	mx	h_t_2	NA	plan_2
+tcga.ol.a5da	61	female	t2	n0	mx	h_t_1	NA	plan_4
+tcga.ol.a5rv	43	female	t2	n3	mx	h_t_2	20	plan_1
+tcga.ol.a5rw	40	female	t1c	n1	mx	h_t_2	1	plan_3
+tcga.ol.a5rx	51	female	t1c	n0	mx	h_t_2	NA	plan_2
+tcga.ol.a5ry	52	female	t1c	n1	mx	h_t_2	1	plan_3
+tcga.ol.a5rz	57	female	t1b	n0	mx	h_t_2	NA	plan_2
+tcga.ol.a5s0	66	female	t2	n1a	mx	h_t_2	2	plan_1
+tcga.ol.a66h	74	female	t1c	n1mi	mx	h_t_6	NA	plan_3
+tcga.ol.a66i	36	female	t1c	n1mi	mx	h_t_2	0	plan_3
+tcga.ol.a66j	80	female	t1c	n0	mx	h_t_1	0	plan_3
+tcga.ol.a66k	72	female	t2	n0	mx	h_t_1	NA	plan_2
+tcga.ol.a66l	71	female	t1c	n0	mx	h_t_2	NA	plan_3
+tcga.ol.a66n	59	female	t3	n3	mx	h_t_1	13	plan_1
+tcga.ol.a66o	39	female	t2	n1a	mx	h_t_2	3	plan_1
+tcga.ol.a66p	75	female	t2	n0	mx	h_t_2	NA	plan_2
+tcga.ol.a6vo	43	female	t1c	n0	mx	h_t_2	0	plan_3
+tcga.ol.a6vq	49	female	t2	n0	mx	h_t_1	0	plan_3
+tcga.ol.a6vr	48	female	t1b	n0	mx	h_t_2	0	plan_2
+tcga.ol.a97c	67	female	t3	n0	m0	h_t_3	0	plan_2
+tcga.pe.a5dc	72	female	t2	n2a	m0	h_t_1	5	plan_5
+tcga.pe.a5dd	64	female	t2	n0	m0	h_t_1	0	plan_4
+tcga.pe.a5de	41	female	t2	n0	m0	h_t_1	0	plan_4
+tcga.pl.a8lv	54	female	t4	n0	m0	h_t_8	NA	plan_5
+tcga.pl.a8lx	35	female	t4	n1a	m1	h_t_2	NA	plan_5
+tcga.pl.a8ly	30	female	t3	n0	m0	h_t_2	NA	plan_5
+tcga.pl.a8lz	29	female	t4b	n2	m0	h_t_2	NA	plan_5
+tcga.s3.a6zf	64	female	t2	n0	m0	h_t_2	0	plan_2
+tcga.s3.a6zg	71	female	t2	n1	m0	h_t_5	1	plan_3
+tcga.s3.a6zh	29	female	t3	n3a	mx	h_t_2	14	plan_2
+tcga.s3.aa0z	63	female	t2	n1a	m0	h_t_2	2	plan_1
+tcga.s3.aa10	65	female	t2	n0	m0	h_t_2	0	plan_2
