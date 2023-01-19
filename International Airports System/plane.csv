@@ -1,0 +1,8 @@
+tail_number,airline,model,capacity_economy,capacity_business,capacity_first
+ABCDE,AC,D8100,3,2,1
+TSTST,TS,D8100,3,2,1
+FGHIJ,AC,B767,350,70,30
+ACACA,AC,B767,350,70,30
+KLMNO,TS,A320,120,20,10
+PQRST,UA,A320,120,20,10
+UVWXY,BA,A380,500,100,50
