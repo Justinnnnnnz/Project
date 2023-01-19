@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="tests" name="Rerun Failed Tests" />
+      <run-configuration type="tests" name="Rerun Failed Tests" />
+      <run-configuration type="tests" name="pytest in a2_test_step2.py" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2861c1c5-5dba-4d0e-8405-30f48ab2e604" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-02/04-beat-tracking.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-02/Assignment 2-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-02/Assignment 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-02/CW 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-02/assignment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/Assignment 6 AEMS.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/CMT302_CW2_Spring_2019-20(1)(1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/Coursework.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/Coursework1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/E1066/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/E1066/Dream House Question.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/E1066/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/E1066/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/QQ图片20200303132605.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/QQ图片20200303134445.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2020-03-03/QQ图片20200303134452.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ZtXsoz3ZJErM8tThC7M1mTFcjN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in a2_test_step2.py">
+    <configuration name="pytest for example_tests.TestGoal.test_block_flatten" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="a2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;example_tests.TestGoal.test_block_flatten&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in a2_test_step2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="a2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/a2_test_step2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in a2_test_step3.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="a2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/a2_test_step3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in a2_test_step8.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="a2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/a2_test_step8.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in example_tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="a2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/example_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in a2_test_step2.py" />
+        <item itemvalue="Python tests.pytest in a2_test_step3.py" />
+        <item itemvalue="Python tests.pytest in example_tests.py" />
+        <item itemvalue="Python tests.pytest for example_tests.TestGoal.test_block_flatten" />
+        <item itemvalue="Python tests.pytest in a2_test_step8.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2861c1c5-5dba-4d0e-8405-30f48ab2e604" name="Default Changelist" comment="" />
+      <created>1585659573816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585659573816</updated>
+      <workItem from="1585659577893" duration="56648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585751978135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585751978135" />
+    <state x="9" y="6" width="781" height="830" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585829044087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="9" y="6" width="781" height="830" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1585829044087" />
+    <state x="484" y="52" key="#pytest_for_a2_test_step4_1.A2TestStep4" timestamp="1585811313877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="52" key="#pytest_for_a2_test_step4_1.A2TestStep4/0.0.1536.824@0.0.1536.824" timestamp="1585811313877" />
+    <state width="727" height="466" key="DebuggerActiveHint" timestamp="1585832566058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="727" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1585832566058" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1585834186993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585834186993" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1585834186992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585834186992" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1585834186992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585834186992" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1585834186992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585834186992" />
+    <state width="1493" height="242" key="GridCell.Tab.1.bottom" timestamp="1585831316109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585831316109" />
+    <state width="1493" height="242" key="GridCell.Tab.1.center" timestamp="1585831316109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585831316109" />
+    <state width="1493" height="242" key="GridCell.Tab.1.left" timestamp="1585831316109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585831316109" />
+    <state width="1493" height="242" key="GridCell.Tab.1.right" timestamp="1585831316109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585831316109" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1585746788857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585746788857" />
+    <state width="776" height="420" key="XDebugger.FullValuePopup" timestamp="1585827601587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="776" height="420" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1585827601587" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585753257461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585753257461" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/a2_test_step6.py</url>
+          <line>167</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestBlock.coverage" NAME="pytest for example_tests.TestBlock Coverage Results" MODIFIED="1585751987313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step2_A2TestStep2_test_smash_3.coverage" NAME="pytest for a2_test_step2.A2TestStep2.test_smash_3 Coverage Results" MODIFIED="1585810849130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestFlatten_test_flatten_5.coverage" NAME="pytest for a2_test_step6.TestFlatten.test_flatten_5 Coverage Results" MODIFIED="1585828962233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step4_1_py.coverage" NAME="pytest in a2_test_step4 1.py Coverage Results" MODIFIED="1585831372311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step2_A2TestStep2_test_get_block_2.coverage" NAME="pytest for a2_test_step2.A2TestStep2.test_get_block_2 Coverage Results" MODIFIED="1585806865006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_example_tests_py.coverage" NAME="pytest in example_tests.py Coverage Results" MODIFIED="1585834166375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestFlatten_test_flatten_2.coverage" NAME="pytest for a2_test_step6.TestFlatten.test_flatten_2 Coverage Results" MODIFIED="1585824589164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestPlayer_test_get_block_top_right.coverage" NAME="pytest for example_tests.TestPlayer.test_get_block_top_right Coverage Results" MODIFIED="1585747061151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestGoal_test_block_flatten.coverage" NAME="pytest for example_tests.TestGoal.test_block_flatten Coverage Results" MODIFIED="1585834119482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step3_py.coverage" NAME="pytest in a2_test_step3.py Coverage Results" MODIFIED="1585834178740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestFlatten_test_flatten_4.coverage" NAME="pytest for a2_test_step6.TestFlatten.test_flatten_4 Coverage Results" MODIFIED="1585824669001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestGoal.coverage" NAME="pytest for example_tests.TestGoal Coverage Results" MODIFIED="1585801759509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step4_py.coverage" NAME="pytest in a2_test_step4.py Coverage Results" MODIFIED="1585831358107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step2_py.coverage" NAME="pytest in a2_test_step2.py Coverage Results" MODIFIED="1585834186976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step5_py.coverage" NAME="pytest in a2_test_step5.py Coverage Results" MODIFIED="1585831388356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestGoal_test_perimeter_goal.coverage" NAME="pytest for example_tests.TestGoal.test_perimeter_goal Coverage Results" MODIFIED="1585800062410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestFlatten_test_flatten_1.coverage" NAME="pytest for a2_test_step6.TestFlatten.test_flatten_1 Coverage Results" MODIFIED="1585823521966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$goal.coverage" NAME="goal Coverage Results" MODIFIED="1585744490248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$game.coverage" NAME="game Coverage Results" MODIFIED="1585751119260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_A2TestStep6.coverage" NAME="pytest for a2_test_step6.A2TestStep6 Coverage Results" MODIFIED="1585815111564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step8_A2TestPlayerTopLevel_test_random_player_generate_move_internal.coverage" NAME="pytest for a2_test_step8.A2TestPlayerTopLevel.test_random_player_generate_move_internal Coverage Results" MODIFIED="1585830801397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_test_block_to_squares_leaf.coverage" NAME="pytest for example_tests.test_block_to_squares_leaf Coverage Results" MODIFIED="1585751959776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step3_A2TestStep3_test_generate_goal_1.coverage" NAME="pytest for a2_test_step3.A2TestStep3.test_generate_goal_1 Coverage Results" MODIFIED="1585810875047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestFlatten_test_flatten_3.coverage" NAME="pytest for a2_test_step6.TestFlatten.test_flatten_3 Coverage Results" MODIFIED="1585824579595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step8_A2TestPlayerTopLevel_test_smart_player_do_pass.coverage" NAME="pytest for a2_test_step8.A2TestPlayerTopLevel.test_smart_player_do_pass Coverage Results" MODIFIED="1585830754742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step7_py.coverage" NAME="pytest in a2_test_step7.py Coverage Results" MODIFIED="1585831413920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$example_tests.coverage" NAME="example_tests Coverage Results" MODIFIED="1585746811072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step2_A2TestStep2_test_smash_1.coverage" NAME="pytest for a2_test_step2.A2TestStep2.test_smash_1 Coverage Results" MODIFIED="1585809383014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step6_py.coverage" NAME="pytest in a2_test_step6.py Coverage Results" MODIFIED="1585831401421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_step8_py.coverage" NAME="pytest in a2_test_step8.py Coverage Results" MODIFIED="1585831428049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$block.coverage" NAME="block Coverage Results" MODIFIED="1585738920548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step2_A2TestStep2_test_get_block_1.coverage" NAME="pytest for a2_test_step2.A2TestStep2.test_get_block_1 Coverage Results" MODIFIED="1585806858543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step2_A2TestStep2_test_smash_2.coverage" NAME="pytest for a2_test_step2.A2TestStep2.test_smash_2 Coverage Results" MODIFIED="1585809509280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestFlatten.coverage" NAME="pytest for a2_test_step6.TestFlatten Coverage Results" MODIFIED="1585828862893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step8_A2TestPlayerTopLevel_test_create_player.coverage" NAME="pytest for a2_test_step8.A2TestPlayerTopLevel.test_create_player Coverage Results" MODIFIED="1585829397340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestPlayer_test_get_block_top_left.coverage" NAME="pytest for example_tests.TestPlayer.test_get_block_top_left Coverage Results" MODIFIED="1585747057273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_in_a2_test_py.coverage" NAME="pytest in a2_test.py Coverage Results" MODIFIED="1585802598261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_test_block_to_squares_reference.coverage" NAME="pytest for example_tests.test_block_to_squares_reference Coverage Results" MODIFIED="1585795166918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step6_TestPerimeterGoal.coverage" NAME="pytest for a2_test_step6.TestPerimeterGoal Coverage Results" MODIFIED="1585828867139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestGoal_test_blob_goal.coverage" NAME="pytest for example_tests.TestGoal.test_blob_goal Coverage Results" MODIFIED="1585801572556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_a2_test_step7_TestBlobGoal_test_goal_1.coverage" NAME="pytest for a2_test_step7.TestBlobGoal.test_goal_1 Coverage Results" MODIFIED="1585825543863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/a2$pytest_for_example_tests_TestPlayer.coverage" NAME="pytest for example_tests.TestPlayer Coverage Results" MODIFIED="1585749803268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
